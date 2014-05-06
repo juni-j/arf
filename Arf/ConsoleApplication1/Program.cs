@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.ReadLine();
-            Console.WriteLine("_oOOOo..oOOOo_");
+            Console.WriteLine("_oOOOo.<3.oOOOo_");
             Console.ReadLine();
 
         }
