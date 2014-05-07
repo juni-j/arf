@@ -10,9 +10,16 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.ReadLine();
-            Console.WriteLine("_oOOOo.<3.oOOOo_");
-            Console.ReadLine();
+            var i = 1;
+            while(i==1){
+                Console.ReadLine();
+                Console.WriteLine("_oOOOo.<3.oOOOo_");
+                var input= Console.ReadLine();
+                if (input == "e") {
+                        i = 0;
+                    }
+            }
+            
 
         }
     }
