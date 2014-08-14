@@ -1,0 +1,3 @@
+C:\Users\mgranberg\Documents\arf\Arf\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\mgranberg\Documents\arf\Arf\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\mgranberg\Documents\arf\Arf\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

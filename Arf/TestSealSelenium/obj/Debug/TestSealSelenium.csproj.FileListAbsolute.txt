@@ -1,0 +1,11 @@
+C:\Users\mgranberg\Documents\arf\Arf\TestSealSelenium\obj\Debug\TestSealSelenium.csprojResolveAssemblyReference.cache
+C:\Users\mgranberg\Documents\arf\Arf\TestSealSelenium\bin\Debug\TestSealSelenium.dll
+C:\Users\mgranberg\Documents\arf\Arf\TestSealSelenium\bin\Debug\TestSealSelenium.pdb
+C:\Users\mgranberg\Documents\arf\Arf\TestSealSelenium\bin\Debug\SealSelenium.exe
+C:\Users\mgranberg\Documents\arf\Arf\TestSealSelenium\bin\Debug\WebDriver.dll
+C:\Users\mgranberg\Documents\arf\Arf\TestSealSelenium\bin\Debug\WebDriver.Support.dll
+C:\Users\mgranberg\Documents\arf\Arf\TestSealSelenium\bin\Debug\SealSelenium.pdb
+C:\Users\mgranberg\Documents\arf\Arf\TestSealSelenium\bin\Debug\WebDriver.xml
+C:\Users\mgranberg\Documents\arf\Arf\TestSealSelenium\bin\Debug\WebDriver.Support.xml
+C:\Users\mgranberg\Documents\arf\Arf\TestSealSelenium\obj\Debug\TestSealSelenium.dll
+C:\Users\mgranberg\Documents\arf\Arf\TestSealSelenium\obj\Debug\TestSealSelenium.pdb
